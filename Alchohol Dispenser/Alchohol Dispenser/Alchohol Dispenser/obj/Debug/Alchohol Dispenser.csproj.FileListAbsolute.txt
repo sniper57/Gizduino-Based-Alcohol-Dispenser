@@ -1,0 +1,11 @@
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\bin\Debug\Alchohol Dispenser.exe.config
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\bin\Debug\Alchohol Dispenser.exe
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\bin\Debug\Alchohol Dispenser.pdb
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\bin\Debug\ScaleModelAutomator.dll
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\bin\Debug\ScaleModelAutomator.pdb
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\obj\Debug\Alchohol Dispenser.csprojResolveAssemblyReference.cache
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\obj\Debug\Alchohol_Dispenser.Form1.resources
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\obj\Debug\Alchohol_Dispenser.Properties.Resources.resources
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\obj\Debug\Alchohol Dispenser.csproj.GenerateResource.Cache
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\obj\Debug\Alchohol Dispenser.exe
+D:\SOFTWARE PROJECTS\SNIPER57\Alchohol Dispenser\Alchohol Dispenser\Alchohol Dispenser\obj\Debug\Alchohol Dispenser.pdb
